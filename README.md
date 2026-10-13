@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0002-add-two-numbers/) | Medium |
 | [0066-plus-one](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0067-add-binary/) | Easy |
+| [0319-bulb-switcher](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0319-bulb-switcher/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0191-number-of-1-bits/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
