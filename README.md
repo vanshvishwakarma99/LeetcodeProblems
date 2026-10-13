@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0015-3sum/) | Medium |
 | [0066-plus-one](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0015-3sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0015-3sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Linked List
