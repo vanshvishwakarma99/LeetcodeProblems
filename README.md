@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0067-add-binary/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0172-factorial-trailing-zeroes/) | Medium |
