@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0002-add-two-numbers/) | Medium |
 | [0066-plus-one](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0067-add-binary/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0292-nim-game](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0319-bulb-switcher/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
