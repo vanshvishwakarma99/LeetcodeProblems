@@ -11,3 +11,12 @@ class Solution {
         return -1;
     }
 }
+
+
+/*
+class Solution {
+    public int strStr(String haystack, String needle) {
+        return haystack.indexOf(needle);
+    }
+}
+*/
