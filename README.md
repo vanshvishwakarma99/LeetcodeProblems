@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0067-add-binary](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0067-add-binary/) | Easy |
+| [0796-rotate-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0796-rotate-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0796-rotate-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0796-rotate-string/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
