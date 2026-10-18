@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0066-plus-one](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
