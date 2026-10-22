@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0042-trapping-rain-water](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Binary Search
@@ -152,9 +154,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0042-trapping-rain-water/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0020-valid-parentheses/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
