@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0292-nim-game](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0319-bulb-switcher/) | Medium |
+| [0509-fibonacci-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2409-count-days-spent-together](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2409-count-days-spent-together/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0050-powx-n/) | Medium |
+| [0509-fibonacci-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0509-fibonacci-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0509-fibonacci-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0509-fibonacci-number/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0014-longest-common-prefix/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
