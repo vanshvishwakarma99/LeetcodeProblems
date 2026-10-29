@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0202-happy-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0202-happy-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0496-next-greater-element-i/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Two Pointers
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0202-happy-number/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0541-reverse-string-ii/) | Easy |
 ## Binary Search
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0067-add-binary/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0202-happy-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0202-happy-number/) | Easy |
 | [0292-nim-game](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0319-bulb-switcher/) | Medium |
 | [0509-fibonacci-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0509-fibonacci-number/) | Easy |
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0509-fibonacci-number/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
