@@ -1,3 +1,4 @@
+/*
 public class Solution {
     public int lengthOfLongestSubstring(String s) {
         int max = 0;
@@ -15,9 +16,9 @@ public class Solution {
         return max;
     }
 }
+*/
 
 
-/*
 public class Solution {
     public int lengthOfLongestSubstring(String s) {
         HashSet<Character> set = new HashSet<>();
@@ -33,4 +34,3 @@ public class Solution {
         return max;
     }
 }
-*/
