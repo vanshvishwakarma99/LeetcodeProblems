@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
+| [0078-subsets](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0191-number-of-1-bits/) | Easy |
@@ -245,4 +247,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0022-generate-parentheses/) | Medium |
+| [0078-subsets](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
