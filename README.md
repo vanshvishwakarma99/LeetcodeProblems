@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0035-search-insert-position/) | Easy |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0027-remove-element/) | Easy |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
