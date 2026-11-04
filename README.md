@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Enumeration
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0202-happy-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0496-next-greater-element-i/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2409-count-days-spent-together](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2409-count-days-spent-together/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0509-fibonacci-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0509-fibonacci-number/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
