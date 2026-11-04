@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0541-reverse-string-ii/) | Easy |
 | [0796-rotate-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0796-rotate-string/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2409-count-days-spent-together](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2409-count-days-spent-together/) | Easy |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0496-next-greater-element-i/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
