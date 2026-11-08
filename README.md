@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0013-roman-to-integer/) | Easy |
 | [0202-happy-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0202-happy-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0496-next-greater-element-i/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2747-count-zero-request-servers/) | Medium |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0067-add-binary/) | Easy |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0013-roman-to-integer](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0022-generate-parentheses/) | Medium |
