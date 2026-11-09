@@ -1,3 +1,4 @@
+/*
 class Solution {
     public boolean isPalindrome(int x) {
         String s = String.valueOf(x);
@@ -14,9 +15,9 @@ class Solution {
         return true;
     }
 }
+*/
 
 
-/*
 class Solution {
     public boolean isPalindrome(int x) {
         if (x<0){
@@ -40,4 +41,3 @@ class Solution {
         }
     }
 }
-*/
