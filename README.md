@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0509-fibonacci-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0509-fibonacci-number/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
