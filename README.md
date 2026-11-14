@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -293,5 +296,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
