@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0577-employee-bonus/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
