@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0202-happy-number/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0541-reverse-string-ii/) | Easy |
 ## Binary Search
@@ -143,12 +144,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0050-powx-n/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0509-fibonacci-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0496-next-greater-element-i/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2390-removing-stars-from-a-string/) | Medium |
