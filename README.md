@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0067-add-binary/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0541-reverse-string-ii/) | Easy |
 | [0796-rotate-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0796-rotate-string/) | Easy |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0112-path-sum/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0078-subsets/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
