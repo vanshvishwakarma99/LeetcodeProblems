@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0136-single-number/) | Easy |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Math
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
