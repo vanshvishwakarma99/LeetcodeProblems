@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0823-binary-trees-with-factors](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2747-count-zero-request-servers/) | Medium |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0013-roman-to-integer/) | Easy |
 | [0202-happy-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0202-happy-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0496-next-greater-element-i/) | Easy |
+| [0823-binary-trees-with-factors](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0823-binary-trees-with-factors](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Linked List
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0509-fibonacci-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0509-fibonacci-number/) | Easy |
+| [0823-binary-trees-with-factors](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Monotonic Stack
