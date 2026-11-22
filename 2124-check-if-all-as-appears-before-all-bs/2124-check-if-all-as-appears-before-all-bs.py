@@ -4,4 +4,10 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        return "ba" not in s
+        seen_b = False
+        for char in s:
+            if char == 'b':
+                seen_b = True
+            elif seen_b:
+                return False
+        return True
