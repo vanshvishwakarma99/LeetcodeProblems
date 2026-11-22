@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0541-reverse-string-ii/) | Easy |
 | [0796-rotate-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2409-count-days-spent-together](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2409-count-days-spent-together/) | Easy |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
