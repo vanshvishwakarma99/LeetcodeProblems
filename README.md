@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0823-binary-trees-with-factors](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [2409-count-days-spent-together](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2409-count-days-spent-together/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -315,9 +317,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
