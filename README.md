@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0025-reverse-nodes-in-k-group](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0025-reverse-nodes-in-k-group](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0050-powx-n/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0509-fibonacci-number/) | Easy |
