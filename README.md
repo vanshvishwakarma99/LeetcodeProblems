@@ -288,10 +288,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0112-path-sum/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0112-path-sum/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0112-path-sum/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -339,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
