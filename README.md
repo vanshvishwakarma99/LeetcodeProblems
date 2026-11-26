@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [2409-count-days-spent-together](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2409-count-days-spent-together/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3360-stone-removal-game](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3360-stone-removal-game/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0067-add-binary](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0067-add-binary/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3360-stone-removal-game](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3360-stone-removal-game/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
