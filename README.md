@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0541-reverse-string-ii/) | Easy |
 ## Binary Search
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0823-binary-trees-with-factors](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0823-binary-trees-with-factors/) | Medium |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -336,10 +339,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1352-product-of-the-last-k-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1352-product-of-the-last-k-numbers](https://github.com/vanshvishwakarma99/LeetcodeProblems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
